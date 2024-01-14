@@ -1,1 +1,6 @@
 # Excel-Assignment-1
+Used formulas
+IF FAMILY
+SUM FAMILY
+COUNT FAMILY
+LOOKUPS FAMILY
